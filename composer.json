@@ -1,7 +1,7 @@
 {
     "name": "cmskit/wizard-map",
     "type": "library",
-    "version": "0.0.0",
+    "version": "0.7.0",
     "description": "A cms-kit wizard to edit/set coordinates via a map",
     "license": "GPL",
     "authors": [
