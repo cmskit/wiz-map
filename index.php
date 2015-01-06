@@ -12,7 +12,7 @@ if (!$config = $_SESSION[$_GET['project']]['objects'][$_GET['object']]['config']
 <!DOCTYPE html>
 <html>
 <title>Map Wizard</title>
-<script src="js/OpenLayers.js"></script>
+<script src="../../../vendor/cmskit/lib-openlayers/OpenLayers.js"></script>
 <script src="js/helper.js"></script>
 <script src="js/functions.js"></script>
 <link rel="stylesheet" href="theme/default/style.css" type="text/css">
